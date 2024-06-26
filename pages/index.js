@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <div>
       {/* <BasicsOfMotion /> */}
-      <Gestures />
-      {/* <AnimationControls /> */}
+      {/* <Gestures /> */}
+      <AnimationControls />
       {/* <ViewBasedAnimations /> */}
       {/* <ScrollAnimations /> */}
     </div>
